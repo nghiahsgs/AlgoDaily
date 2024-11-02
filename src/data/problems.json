@@ -1,0 +1,1949 @@
+{
+  "problems": [
+    {
+      "filename": "0001-two-sum.py",
+      "problemNumber": "0001",
+      "title": "two-sum"
+    },
+    {
+      "filename": "0002-add-two-numbers.py",
+      "problemNumber": "0002",
+      "title": "add-two-numbers"
+    },
+    {
+      "filename": "0003-longest-substring-without-repeating-characters.py",
+      "problemNumber": "0003",
+      "title": "longest-substring-without-repeating-characters"
+    },
+    {
+      "filename": "0004-median-of-two-sorted-arrays.py",
+      "problemNumber": "0004",
+      "title": "median-of-two-sorted-arrays"
+    },
+    {
+      "filename": "0005-longest-palindromic-substring.py",
+      "problemNumber": "0005",
+      "title": "longest-palindromic-substring"
+    },
+    {
+      "filename": "0006-zigzag-conversion.py",
+      "problemNumber": "0006",
+      "title": "zigzag-conversion"
+    },
+    {
+      "filename": "0007-reverse-integer.py",
+      "problemNumber": "0007",
+      "title": "reverse-integer"
+    },
+    {
+      "filename": "0009-palindrome-number.py",
+      "problemNumber": "0009",
+      "title": "palindrome-number"
+    },
+    {
+      "filename": "0010-regular-expression-matching.py",
+      "problemNumber": "0010",
+      "title": "regular-expression-matching"
+    },
+    {
+      "filename": "0011-container-with-most-water.py",
+      "problemNumber": "0011",
+      "title": "container-with-most-water"
+    },
+    {
+      "filename": "0012-integer-to-roman.py",
+      "problemNumber": "0012",
+      "title": "integer-to-roman"
+    },
+    {
+      "filename": "0013-roman-to-integer.py",
+      "problemNumber": "0013",
+      "title": "roman-to-integer"
+    },
+    {
+      "filename": "0014-longest-common-prefix.py",
+      "problemNumber": "0014",
+      "title": "longest-common-prefix"
+    },
+    {
+      "filename": "0015-3sum.py",
+      "problemNumber": "0015",
+      "title": "3sum"
+    },
+    {
+      "filename": "0016-3sum-closest.py",
+      "problemNumber": "0016",
+      "title": "3sum-closest"
+    },
+    {
+      "filename": "0017-letter-combinations-of-a-phone-number.py",
+      "problemNumber": "0017",
+      "title": "letter-combinations-of-a-phone-number"
+    },
+    {
+      "filename": "0018-4sum.py",
+      "problemNumber": "0018",
+      "title": "4sum"
+    },
+    {
+      "filename": "0019-remove-nth-node-from-end-of-list.py",
+      "problemNumber": "0019",
+      "title": "remove-nth-node-from-end-of-list"
+    },
+    {
+      "filename": "0020-valid-parentheses.py",
+      "problemNumber": "0020",
+      "title": "valid-parentheses"
+    },
+    {
+      "filename": "0021-merge-two-sorted-lists.py",
+      "problemNumber": "0021",
+      "title": "merge-two-sorted-lists"
+    },
+    {
+      "filename": "0022-generate-parentheses.py",
+      "problemNumber": "0022",
+      "title": "generate-parentheses"
+    },
+    {
+      "filename": "0023-merge-k-sorted-lists.py",
+      "problemNumber": "0023",
+      "title": "merge-k-sorted-lists"
+    },
+    {
+      "filename": "0024-swap-nodes-in-pairs.py",
+      "problemNumber": "0024",
+      "title": "swap-nodes-in-pairs"
+    },
+    {
+      "filename": "0025-reverse-nodes-in-k-group.py",
+      "problemNumber": "0025",
+      "title": "reverse-nodes-in-k-group"
+    },
+    {
+      "filename": "0026-remove-duplicates-from-sorted-array.py",
+      "problemNumber": "0026",
+      "title": "remove-duplicates-from-sorted-array"
+    },
+    {
+      "filename": "0027-remove-element.py",
+      "problemNumber": "0027",
+      "title": "remove-element"
+    },
+    {
+      "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+      "problemNumber": "0028",
+      "title": "find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+      "filename": "0033-search-in-rotated-sorted-array.py",
+      "problemNumber": "0033",
+      "title": "search-in-rotated-sorted-array"
+    },
+    {
+      "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.py",
+      "problemNumber": "0034",
+      "title": "find-first-and-last-position-of-element-in-sorted-array"
+    },
+    {
+      "filename": "0035-search-insert-position.py",
+      "problemNumber": "0035",
+      "title": "search-insert-position"
+    },
+    {
+      "filename": "0036-valid-sudoku.py",
+      "problemNumber": "0036",
+      "title": "valid-sudoku"
+    },
+    {
+      "filename": "0039-combination-sum.py",
+      "problemNumber": "0039",
+      "title": "combination-sum"
+    },
+    {
+      "filename": "0040-combination-sum-ii.py",
+      "problemNumber": "0040",
+      "title": "combination-sum-ii"
+    },
+    {
+      "filename": "0041-first-missing-positive.py",
+      "problemNumber": "0041",
+      "title": "first-missing-positive"
+    },
+    {
+      "filename": "0042-trapping-rain-water.py",
+      "problemNumber": "0042",
+      "title": "trapping-rain-water"
+    },
+    {
+      "filename": "0043-multiply-strings.py",
+      "problemNumber": "0043",
+      "title": "multiply-strings"
+    },
+    {
+      "filename": "0044-wildcard-matching.py",
+      "problemNumber": "0044",
+      "title": "wildcard-matching"
+    },
+    {
+      "filename": "0045-jump-game-ii.py",
+      "problemNumber": "0045",
+      "title": "jump-game-ii"
+    },
+    {
+      "filename": "0046-permutations.py",
+      "problemNumber": "0046",
+      "title": "permutations"
+    },
+    {
+      "filename": "0047-permutations-ii.py",
+      "problemNumber": "0047",
+      "title": "permutations-ii"
+    },
+    {
+      "filename": "0048-rotate-image.py",
+      "problemNumber": "0048",
+      "title": "rotate-image"
+    },
+    {
+      "filename": "0049-group-anagrams.py",
+      "problemNumber": "0049",
+      "title": "group-anagrams"
+    },
+    {
+      "filename": "0050-powx-n.py",
+      "problemNumber": "0050",
+      "title": "powx-n"
+    },
+    {
+      "filename": "0051-n-queens.py",
+      "problemNumber": "0051",
+      "title": "n-queens"
+    },
+    {
+      "filename": "0052-n-queens-ii.py",
+      "problemNumber": "0052",
+      "title": "n-queens-ii"
+    },
+    {
+      "filename": "0053-maximum-subarray.py",
+      "problemNumber": "0053",
+      "title": "maximum-subarray"
+    },
+    {
+      "filename": "0054-spiral-matrix.py",
+      "problemNumber": "0054",
+      "title": "spiral-matrix"
+    },
+    {
+      "filename": "0055-jump-game.py",
+      "problemNumber": "0055",
+      "title": "jump-game"
+    },
+    {
+      "filename": "0056-merge-intervals.py",
+      "problemNumber": "0056",
+      "title": "merge-intervals"
+    },
+    {
+      "filename": "0057-insert-interval.py",
+      "problemNumber": "0057",
+      "title": "insert-interval"
+    },
+    {
+      "filename": "0058-length-of-last-word.py",
+      "problemNumber": "0058",
+      "title": "length-of-last-word"
+    },
+    {
+      "filename": "0061-rotate-list.py",
+      "problemNumber": "0061",
+      "title": "rotate-list"
+    },
+    {
+      "filename": "0062-unique-paths.py",
+      "problemNumber": "0062",
+      "title": "unique-paths"
+    },
+    {
+      "filename": "0063-unique-paths-ii.py",
+      "problemNumber": "0063",
+      "title": "unique-paths-ii"
+    },
+    {
+      "filename": "0064-minimum-path-sum.py",
+      "problemNumber": "0064",
+      "title": "minimum-path-sum"
+    },
+    {
+      "filename": "0066-plus-one.py",
+      "problemNumber": "0066",
+      "title": "plus-one"
+    },
+    {
+      "filename": "0067-add-binary.py",
+      "problemNumber": "0067",
+      "title": "add-binary"
+    },
+    {
+      "filename": "0068-text-justification.py",
+      "problemNumber": "0068",
+      "title": "text-justification"
+    },
+    {
+      "filename": "0069-sqrtx.py",
+      "problemNumber": "0069",
+      "title": "sqrtx"
+    },
+    {
+      "filename": "0070-climbing-stairs.py",
+      "problemNumber": "0070",
+      "title": "climbing-stairs"
+    },
+    {
+      "filename": "0071-simplify-path.py",
+      "problemNumber": "0071",
+      "title": "simplify-path"
+    },
+    {
+      "filename": "0072-edit-distance.py",
+      "problemNumber": "0072",
+      "title": "edit-distance"
+    },
+    {
+      "filename": "0073-set-matrix-zeroes.py",
+      "problemNumber": "0073",
+      "title": "set-matrix-zeroes"
+    },
+    {
+      "filename": "0074-search-a-2d-matrix.py",
+      "problemNumber": "0074",
+      "title": "search-a-2d-matrix"
+    },
+    {
+      "filename": "0075-sort-colors.py",
+      "problemNumber": "0075",
+      "title": "sort-colors"
+    },
+    {
+      "filename": "0076-minimum-window-substring.py",
+      "problemNumber": "0076",
+      "title": "minimum-window-substring"
+    },
+    {
+      "filename": "0077-combinations.py",
+      "problemNumber": "0077",
+      "title": "combinations"
+    },
+    {
+      "filename": "0078-subsets.py",
+      "problemNumber": "0078",
+      "title": "subsets"
+    },
+    {
+      "filename": "0079-word-search.py",
+      "problemNumber": "0079",
+      "title": "word-search"
+    },
+    {
+      "filename": "0080-remove-duplicates-from-sorted-array-ii.py",
+      "problemNumber": "0080",
+      "title": "remove-duplicates-from-sorted-array-ii"
+    },
+    {
+      "filename": "0083-remove-duplicates-from-sorted-list.py",
+      "problemNumber": "0083",
+      "title": "remove-duplicates-from-sorted-list"
+    },
+    {
+      "filename": "0084-largest-rectangle-in-histogram.py",
+      "problemNumber": "0084",
+      "title": "largest-rectangle-in-histogram"
+    },
+    {
+      "filename": "0086-partition-list.py",
+      "problemNumber": "0086",
+      "title": "partition-list"
+    },
+    {
+      "filename": "0088-merge-sorted-array.py",
+      "problemNumber": "0088",
+      "title": "merge-sorted-array"
+    },
+    {
+      "filename": "0090-subsets-ii.py",
+      "problemNumber": "0090",
+      "title": "subsets-ii"
+    },
+    {
+      "filename": "0091-decode-ways.py",
+      "problemNumber": "0091",
+      "title": "decode-ways"
+    },
+    {
+      "filename": "0092-reverse-linked-list-ii.py",
+      "problemNumber": "0092",
+      "title": "reverse-linked-list-ii"
+    },
+    {
+      "filename": "0094-binary-tree-inorder-traversal.py",
+      "problemNumber": "0094",
+      "title": "binary-tree-inorder-traversal"
+    },
+    {
+      "filename": "0097-interleaving-string.py",
+      "problemNumber": "0097",
+      "title": "interleaving-string"
+    },
+    {
+      "filename": "0098-validate-binary-search-tree.py",
+      "problemNumber": "0098",
+      "title": "validate-binary-search-tree"
+    },
+    {
+      "filename": "0100-same-tree.py",
+      "problemNumber": "0100",
+      "title": "same-tree"
+    },
+    {
+      "filename": "0101-symmetric-tree.py",
+      "problemNumber": "0101",
+      "title": "symmetric-tree"
+    },
+    {
+      "filename": "0102-binary-tree-level-order-traversal.py",
+      "problemNumber": "0102",
+      "title": "binary-tree-level-order-traversal"
+    },
+    {
+      "filename": "0103-binary-tree-zigzag-level-order-traversal.py",
+      "problemNumber": "0103",
+      "title": "binary-tree-zigzag-level-order-traversal"
+    },
+    {
+      "filename": "0104-maximum-depth-of-binary-tree.py",
+      "problemNumber": "0104",
+      "title": "maximum-depth-of-binary-tree"
+    },
+    {
+      "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
+      "problemNumber": "0105",
+      "title": "construct-binary-tree-from-preorder-and-inorder-traversal"
+    },
+    {
+      "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.py",
+      "problemNumber": "0106",
+      "title": "construct-binary-tree-from-inorder-and-postorder-traversal"
+    },
+    {
+      "filename": "0108-convert-sorted-array-to-binary-search-tree.py",
+      "problemNumber": "0108",
+      "title": "convert-sorted-array-to-binary-search-tree"
+    },
+    {
+      "filename": "0110-balanced-binary-tree.py",
+      "problemNumber": "0110",
+      "title": "balanced-binary-tree"
+    },
+    {
+      "filename": "0112-path-sum.py",
+      "problemNumber": "0112",
+      "title": "path-sum"
+    },
+    {
+      "filename": "0115-distinct-subsequences.py",
+      "problemNumber": "0115",
+      "title": "distinct-subsequences"
+    },
+    {
+      "filename": "0118-pascals-triangle.py",
+      "problemNumber": "0118",
+      "title": "pascals-triangle"
+    },
+    {
+      "filename": "0119-pascal-triangle-ii.py",
+      "problemNumber": "0119",
+      "title": "pascal-triangle-ii"
+    },
+    {
+      "filename": "0120-triangle.py",
+      "problemNumber": "0120",
+      "title": "triangle"
+    },
+    {
+      "filename": "0121-best-time-to-buy-and-sell-stock.py",
+      "problemNumber": "0121",
+      "title": "best-time-to-buy-and-sell-stock"
+    },
+    {
+      "filename": "0122-best-time-to-buy-and-sell-stock-ii.py",
+      "problemNumber": "0122",
+      "title": "best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "filename": "0124-binary-tree-maximum-path-sum.py",
+      "problemNumber": "0124",
+      "title": "binary-tree-maximum-path-sum"
+    },
+    {
+      "filename": "0125-valid-palindrome.py",
+      "problemNumber": "0125",
+      "title": "valid-palindrome"
+    },
+    {
+      "filename": "0127-word-ladder.py",
+      "problemNumber": "0127",
+      "title": "word-ladder"
+    },
+    {
+      "filename": "0128-longest-consecutive-sequence.py",
+      "problemNumber": "0128",
+      "title": "longest-consecutive-sequence"
+    },
+    {
+      "filename": "0130-surrounded-regions.py",
+      "problemNumber": "0130",
+      "title": "surrounded-regions"
+    },
+    {
+      "filename": "0131-palindrome-partitioning.py",
+      "problemNumber": "0131",
+      "title": "palindrome-partitioning"
+    },
+    {
+      "filename": "0133-clone-graph.py",
+      "problemNumber": "0133",
+      "title": "clone-graph"
+    },
+    {
+      "filename": "0134-gas-station.py",
+      "problemNumber": "0134",
+      "title": "gas-station"
+    },
+    {
+      "filename": "0135-candy.py",
+      "problemNumber": "0135",
+      "title": "candy"
+    },
+    {
+      "filename": "0136-single-number.py",
+      "problemNumber": "0136",
+      "title": "single-number"
+    },
+    {
+      "filename": "0138-copy-list-with-random-pointer.py",
+      "problemNumber": "0138",
+      "title": "copy-list-with-random-pointer"
+    },
+    {
+      "filename": "0139-word-break.py",
+      "problemNumber": "0139",
+      "title": "word-break"
+    },
+    {
+      "filename": "0141-linked-list-cycle.py",
+      "problemNumber": "0141",
+      "title": "linked-list-cycle"
+    },
+    {
+      "filename": "0143-reorder-list.py",
+      "problemNumber": "0143",
+      "title": "reorder-list"
+    },
+    {
+      "filename": "0144-binary-tree-preorder-traversal.py",
+      "problemNumber": "0144",
+      "title": "binary-tree-preorder-traversal"
+    },
+    {
+      "filename": "0145-binary-tree-postorder-traversal.py",
+      "problemNumber": "0145",
+      "title": "binary-tree-postorder-traversal"
+    },
+    {
+      "filename": "0146-lru-cache.py",
+      "problemNumber": "0146",
+      "title": "lru-cache"
+    },
+    {
+      "filename": "0147-insertion-sort-list.py",
+      "problemNumber": "0147",
+      "title": "insertion-sort-list"
+    },
+    {
+      "filename": "0148-sort-list.py",
+      "problemNumber": "0148",
+      "title": "sort-list"
+    },
+    {
+      "filename": "0149-max-points-on-a-line.py",
+      "problemNumber": "0149",
+      "title": "max-points-on-a-line"
+    },
+    {
+      "filename": "0150-evaluate-reverse-polish-notation.py",
+      "problemNumber": "0150",
+      "title": "evaluate-reverse-polish-notation"
+    },
+    {
+      "filename": "0152-maximum-product-subarray.py",
+      "problemNumber": "0152",
+      "title": "maximum-product-subarray"
+    },
+    {
+      "filename": "0153-find-minimum-in-rotated-sorted-array.py",
+      "problemNumber": "0153",
+      "title": "find-minimum-in-rotated-sorted-array"
+    },
+    {
+      "filename": "0155-min-stack.py",
+      "problemNumber": "0155",
+      "title": "min-stack"
+    },
+    {
+      "filename": "0160-intersection-of-two-linked-lists.py",
+      "problemNumber": "0160",
+      "title": "intersection-of-two-linked-lists"
+    },
+    {
+      "filename": "0162-find-peak-element.py",
+      "problemNumber": "0162",
+      "title": "find-peak-element"
+    },
+    {
+      "filename": "0167-two-sum-ii-input-array-is-sorted.py",
+      "problemNumber": "0167",
+      "title": "two-sum-ii-input-array-is-sorted"
+    },
+    {
+      "filename": "0168-excel-sheet-column-title.py",
+      "problemNumber": "0168",
+      "title": "excel-sheet-column-title"
+    },
+    {
+      "filename": "0169-majority-element.py",
+      "problemNumber": "0169",
+      "title": "majority-element"
+    },
+    {
+      "filename": "0179-largest-number.py",
+      "problemNumber": "0179",
+      "title": "largest-number"
+    },
+    {
+      "filename": "0187-repeated-dna-sequences.py",
+      "problemNumber": "0187",
+      "title": "repeated-dna-sequences"
+    },
+    {
+      "filename": "0189-rotate-array.py",
+      "problemNumber": "0189",
+      "title": "rotate-array"
+    },
+    {
+      "filename": "0190-reverse-bits.py",
+      "problemNumber": "0190",
+      "title": "reverse-bits"
+    },
+    {
+      "filename": "0191-number-of-1-bits.py",
+      "problemNumber": "0191",
+      "title": "number-of-1-bits"
+    },
+    {
+      "filename": "0198-house-robber.py",
+      "problemNumber": "0198",
+      "title": "house-robber"
+    },
+    {
+      "filename": "0199-binary-tree-right-side-view.py",
+      "problemNumber": "0199",
+      "title": "binary-tree-right-side-view"
+    },
+    {
+      "filename": "0200-number-of-islands.py",
+      "problemNumber": "0200",
+      "title": "number-of-islands"
+    },
+    {
+      "filename": "0201-bitwise-and-of-numbers-range.py",
+      "problemNumber": "0201",
+      "title": "bitwise-and-of-numbers-range"
+    },
+    {
+      "filename": "0202-happy-number.py",
+      "problemNumber": "0202",
+      "title": "happy-number"
+    },
+    {
+      "filename": "0203-remove-linked-list-elements.py",
+      "problemNumber": "0203",
+      "title": "remove-linked-list-elements"
+    },
+    {
+      "filename": "0205-isomorphic-strings.py",
+      "problemNumber": "0205",
+      "title": "isomorphic-strings"
+    },
+    {
+      "filename": "0206-reverse-linked-list.py",
+      "problemNumber": "0206",
+      "title": "reverse-linked-list"
+    },
+    {
+      "filename": "0207-course-schedule.py",
+      "problemNumber": "0207",
+      "title": "course-schedule"
+    },
+    {
+      "filename": "0208-implement-trie-prefix-tree.py",
+      "problemNumber": "0208",
+      "title": "implement-trie-prefix-tree"
+    },
+    {
+      "filename": "0209-minimum-size-subarray-sum.py",
+      "problemNumber": "0209",
+      "title": "minimum-size-subarray-sum"
+    },
+    {
+      "filename": "0210-course-schedule-ii.py",
+      "problemNumber": "0210",
+      "title": "course-schedule-ii"
+    },
+    {
+      "filename": "0211-design-add-and-search-words-data-structure.py",
+      "problemNumber": "0211",
+      "title": "design-add-and-search-words-data-structure"
+    },
+    {
+      "filename": "0212-word-search-ii.py",
+      "problemNumber": "0212",
+      "title": "word-search-ii"
+    },
+    {
+      "filename": "0213-house-robber-ii.py",
+      "problemNumber": "0213",
+      "title": "house-robber-ii"
+    },
+    {
+      "filename": "0215-kth-largest-element-in-an-array.py",
+      "problemNumber": "0215",
+      "title": "kth-largest-element-in-an-array"
+    },
+    {
+      "filename": "0217-contains-duplicate.py",
+      "problemNumber": "0217",
+      "title": "contains-duplicate"
+    },
+    {
+      "filename": "0219-contains-duplicate-ii.py",
+      "problemNumber": "0219",
+      "title": "contains-duplicate-ii"
+    },
+    {
+      "filename": "0221-maximal-square.py",
+      "problemNumber": "0221",
+      "title": "maximal-square"
+    },
+    {
+      "filename": "0225-implement-stack-using-queues.py",
+      "problemNumber": "0225",
+      "title": "implement-stack-using-queues"
+    },
+    {
+      "filename": "0226-invert-binary-tree.py",
+      "problemNumber": "0226",
+      "title": "invert-binary-tree"
+    },
+    {
+      "filename": "0230-kth-smallest-element-in-a-bst.py",
+      "problemNumber": "0230",
+      "title": "kth-smallest-element-in-a-bst"
+    },
+    {
+      "filename": "0231-power-of-two.py",
+      "problemNumber": "0231",
+      "title": "power-of-two"
+    },
+    {
+      "filename": "0232-implement-queue-using-stacks.py",
+      "problemNumber": "0232",
+      "title": "implement-queue-using-stacks"
+    },
+    {
+      "filename": "0234-palindrome-linked-list.py",
+      "problemNumber": "0234",
+      "title": "palindrome-linked-list"
+    },
+    {
+      "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.py",
+      "problemNumber": "0235",
+      "title": "lowest-common-ancestor-of-a-binary-search-tree"
+    },
+    {
+      "filename": "0236-lowest-common-ancestor-of-a-binary-tree.py",
+      "problemNumber": "0236",
+      "title": "lowest-common-ancestor-of-a-binary-tree"
+    },
+    {
+      "filename": "0238-product-of-array-except-self.py",
+      "problemNumber": "0238",
+      "title": "product-of-array-except-self"
+    },
+    {
+      "filename": "0239-sliding-window-maximum.py",
+      "problemNumber": "0239",
+      "title": "sliding-window-maximum"
+    },
+    {
+      "filename": "0241-different-ways-to-add-parentheses.py",
+      "problemNumber": "0241",
+      "title": "different-ways-to-add-parentheses"
+    },
+    {
+      "filename": "0242-valid-anagram.py",
+      "problemNumber": "0242",
+      "title": "valid-anagram"
+    },
+    {
+      "filename": "0252-meeting-rooms.py",
+      "problemNumber": "0252",
+      "title": "meeting-rooms"
+    },
+    {
+      "filename": "0253-meeting-rooms-ii.py",
+      "problemNumber": "0253",
+      "title": "meeting-rooms-ii"
+    },
+    {
+      "filename": "0253-meeting-rooms.py",
+      "problemNumber": "0253",
+      "title": "meeting-rooms"
+    },
+    {
+      "filename": "0261-graph-valid-tree.py",
+      "problemNumber": "0261",
+      "title": "graph-valid-tree"
+    },
+    {
+      "filename": "0263-ugly-number.py",
+      "problemNumber": "0263",
+      "title": "ugly-number"
+    },
+    {
+      "filename": "0268-missing-number.py",
+      "problemNumber": "0268",
+      "title": "missing-number"
+    },
+    {
+      "filename": "0269-alien-dictionary.py",
+      "problemNumber": "0269",
+      "title": "alien-dictionary"
+    },
+    {
+      "filename": "0271-encode-and-decode-strings.py",
+      "problemNumber": "0271",
+      "title": "encode-and-decode-strings"
+    },
+    {
+      "filename": "0274-H-index.py",
+      "problemNumber": "0274",
+      "title": "H-index"
+    },
+    {
+      "filename": "0278-first-bad-version.py",
+      "problemNumber": "0278",
+      "title": "first-bad-version"
+    },
+    {
+      "filename": "0280-wiggle-sort.py",
+      "problemNumber": "0280",
+      "title": "wiggle-sort"
+    },
+    {
+      "filename": "0283-move-zeroes.py",
+      "problemNumber": "0283",
+      "title": "move-zeroes"
+    },
+    {
+      "filename": "0286-walls-and-gates.py",
+      "problemNumber": "0286",
+      "title": "walls-and-gates"
+    },
+    {
+      "filename": "0287-find-the-duplicate-number.py",
+      "problemNumber": "0287",
+      "title": "find-the-duplicate-number"
+    },
+    {
+      "filename": "0290-word-pattern.py",
+      "problemNumber": "0290",
+      "title": "word-pattern"
+    },
+    {
+      "filename": "0295-find-median-from-data-stream.py",
+      "problemNumber": "0295",
+      "title": "find-median-from-data-stream"
+    },
+    {
+      "filename": "0297-serialize-and-deserialize-binary-tree.py",
+      "problemNumber": "0297",
+      "title": "serialize-and-deserialize-binary-tree"
+    },
+    {
+      "filename": "0300-longest-increasing-subsequence.py",
+      "problemNumber": "0300",
+      "title": "longest-increasing-subsequence"
+    },
+    {
+      "filename": "0303-range-sum-query-immutable.py",
+      "problemNumber": "0303",
+      "title": "range-sum-query-immutable"
+    },
+    {
+      "filename": "0304-range-sum-query-2d-immutable.py",
+      "problemNumber": "0304",
+      "title": "range-sum-query-2d-immutable"
+    },
+    {
+      "filename": "0309-best-time-to-buy-and-sell-stock-with-cooldown.py",
+      "problemNumber": "0309",
+      "title": "best-time-to-buy-and-sell-stock-with-cooldown"
+    },
+    {
+      "filename": "0312-burst-balloons.py",
+      "problemNumber": "0312",
+      "title": "burst-balloons"
+    },
+    {
+      "filename": "0322-coin-change.py",
+      "problemNumber": "0322",
+      "title": "coin-change"
+    },
+    {
+      "filename": "0323-number-of-connected-components-in-an-undirected-graph.py",
+      "problemNumber": "0323",
+      "title": "number-of-connected-components-in-an-undirected-graph"
+    },
+    {
+      "filename": "0329-longest-increasing-path-in-a-matrix.py",
+      "problemNumber": "0329",
+      "title": "longest-increasing-path-in-a-matrix"
+    },
+    {
+      "filename": "0332-reconstruct-itinerary.py",
+      "problemNumber": "0332",
+      "title": "reconstruct-itinerary"
+    },
+    {
+      "filename": "0334-increasing-triplet-subsequence.py",
+      "problemNumber": "0334",
+      "title": "increasing-triplet-subsequence"
+    },
+    {
+      "filename": "0338-counting-bits.py",
+      "problemNumber": "0338",
+      "title": "counting-bits"
+    },
+    {
+      "filename": "0344-reverse-string.py",
+      "problemNumber": "0344",
+      "title": "reverse-string"
+    },
+    {
+      "filename": "0347-top-k-frequent-elements.py",
+      "problemNumber": "0347",
+      "title": "top-k-frequent-elements"
+    },
+    {
+      "filename": "0349-intersection-of-two-arrays.py",
+      "problemNumber": "0349",
+      "title": "intersection-of-two-arrays"
+    },
+    {
+      "filename": "0355-design-twitter.py",
+      "problemNumber": "0355",
+      "title": "design-twitter"
+    },
+    {
+      "filename": "0367-valid-perfect-square.py",
+      "problemNumber": "0367",
+      "title": "valid-perfect-square"
+    },
+    {
+      "filename": "0371-sum-of-two-integers.py",
+      "problemNumber": "0371",
+      "title": "sum-of-two-integers"
+    },
+    {
+      "filename": "0374-guess-number-higher-or-lower.py",
+      "problemNumber": "0374",
+      "title": "guess-number-higher-or-lower"
+    },
+    {
+      "filename": "0377-combination-sum-iv.py",
+      "problemNumber": "0377",
+      "title": "combination-sum-iv"
+    },
+    {
+      "filename": "0380-insert-delete-getrandom-o1.py",
+      "problemNumber": "0380",
+      "title": "insert-delete-getrandom-o1"
+    },
+    {
+      "filename": "0383-ransom-note.py",
+      "problemNumber": "0383",
+      "title": "ransom-note"
+    },
+    {
+      "filename": "0392-is-subsequence.py",
+      "problemNumber": "0392",
+      "title": "is-subsequence"
+    },
+    {
+      "filename": "0394-decode-string.py",
+      "problemNumber": "0394",
+      "title": "decode-string"
+    },
+    {
+      "filename": "0402-remove-k-digits.py",
+      "problemNumber": "0402",
+      "title": "remove-k-digits"
+    },
+    {
+      "filename": "0410-split-array-largest-sum.py",
+      "problemNumber": "0410",
+      "title": "split-array-largest-sum"
+    },
+    {
+      "filename": "0416-partition-equal-subset-sum.py",
+      "problemNumber": "0416",
+      "title": "partition-equal-subset-sum"
+    },
+    {
+      "filename": "0417-pacific-atlantic-water-flow.py",
+      "problemNumber": "0417",
+      "title": "pacific-atlantic-water-flow"
+    },
+    {
+      "filename": "0424-longest-repeating-character-replacement.py",
+      "problemNumber": "0424",
+      "title": "longest-repeating-character-replacement"
+    },
+    {
+      "filename": "0435-non-overlapping-intervals.py",
+      "problemNumber": "0435",
+      "title": "non-overlapping-intervals"
+    },
+    {
+      "filename": "0438-find-all-anagrams-in-a-string.py",
+      "problemNumber": "0438",
+      "title": "find-all-anagrams-in-a-string"
+    },
+    {
+      "filename": "0441-arranging-coins.py",
+      "problemNumber": "0441",
+      "title": "arranging-coins"
+    },
+    {
+      "filename": "0442-find-all-duplicates-in-an-array.py",
+      "problemNumber": "0442",
+      "title": "find-all-duplicates-in-an-array"
+    },
+    {
+      "filename": "0448-find-all-numbers-disappeared-in-an-array.py",
+      "problemNumber": "0448",
+      "title": "find-all-numbers-disappeared-in-an-array"
+    },
+    {
+      "filename": "0450-delete-node-in-a-bst.py",
+      "problemNumber": "0450",
+      "title": "delete-node-in-a-bst"
+    },
+    {
+      "filename": "0452-minimum-number-of-arrows-to-burst-balloons.py",
+      "problemNumber": "0452",
+      "title": "minimum-number-of-arrows-to-burst-balloons"
+    },
+    {
+      "filename": "0456-132-pattern.py",
+      "problemNumber": "0456",
+      "title": "132-pattern"
+    },
+    {
+      "filename": "0459-repeated-substring-pattern.py",
+      "problemNumber": "0459",
+      "title": "repeated-substring-pattern"
+    },
+    {
+      "filename": "0463-island-perimeter.py",
+      "problemNumber": "0463",
+      "title": "island-perimeter"
+    },
+    {
+      "filename": "0473-matchsticks-to-square.py",
+      "problemNumber": "0473",
+      "title": "matchsticks-to-square"
+    },
+    {
+      "filename": "0474-ones-and-zeroes.py",
+      "problemNumber": "0474",
+      "title": "ones-and-zeroes"
+    },
+    {
+      "filename": "0494-target-sum.py",
+      "problemNumber": "0494",
+      "title": "target-sum"
+    },
+    {
+      "filename": "0496-next-greater-element-i.py",
+      "problemNumber": "0496",
+      "title": "next-greater-element-i"
+    },
+    {
+      "filename": "0502-ipo.py",
+      "problemNumber": "0502",
+      "title": "ipo"
+    },
+    {
+      "filename": "0509-fibonacci-number.py",
+      "problemNumber": "0509",
+      "title": "fibonacci-number"
+    },
+    {
+      "filename": "0513-find-bottom-left-tree-value.py",
+      "problemNumber": "0513",
+      "title": "find-bottom-left-tree-value"
+    },
+    {
+      "filename": "0516-longest-palindromic-subsequence.py",
+      "problemNumber": "0516",
+      "title": "longest-palindromic-subsequence"
+    },
+    {
+      "filename": "0518-coin-change-ii.py",
+      "problemNumber": "0518",
+      "title": "coin-change-ii"
+    },
+    {
+      "filename": "0523-continuous-subarray-sum.py",
+      "problemNumber": "0523",
+      "title": "continuous-subarray-sum"
+    },
+    {
+      "filename": "0525-contiguous-array.py",
+      "problemNumber": "0525",
+      "title": "contiguous-array"
+    },
+    {
+      "filename": "0535-encode-and-decode-tinyurl.py",
+      "problemNumber": "0535",
+      "title": "encode-and-decode-tinyurl"
+    },
+    {
+      "filename": "0540-single-element-in-a-sorted-array.py",
+      "problemNumber": "0540",
+      "title": "single-element-in-a-sorted-array"
+    },
+    {
+      "filename": "0543-diameter-of-binary-tree.py",
+      "problemNumber": "0543",
+      "title": "diameter-of-binary-tree"
+    },
+    {
+      "filename": "0554-brick-wall.py",
+      "problemNumber": "0554",
+      "title": "brick-wall"
+    },
+    {
+      "filename": "0560-subarray-sum-equals-k.py",
+      "problemNumber": "0560",
+      "title": "subarray-sum-equals-k"
+    },
+    {
+      "filename": "0567-permutation-in-string.py",
+      "problemNumber": "0567",
+      "title": "permutation-in-string"
+    },
+    {
+      "filename": "0572-subtree-of-another-tree.py",
+      "problemNumber": "0572",
+      "title": "subtree-of-another-tree"
+    },
+    {
+      "filename": "0605-can-place-flowers.py",
+      "problemNumber": "0605",
+      "title": "can-place-flowers"
+    },
+    {
+      "filename": "0606-construct-string-from-binary-tree.py",
+      "problemNumber": "0606",
+      "title": "construct-string-from-binary-tree"
+    },
+    {
+      "filename": "0617-merge-two-binary-trees.py",
+      "problemNumber": "0617",
+      "title": "merge-two-binary-trees"
+    },
+    {
+      "filename": "0621-task-scheduler.py",
+      "problemNumber": "0621",
+      "title": "task-scheduler"
+    },
+    {
+      "filename": "0622-design-circular-queue.py",
+      "problemNumber": "0622",
+      "title": "design-circular-queue"
+    },
+    {
+      "filename": "0647-palindromic-substrings.py",
+      "problemNumber": "0647",
+      "title": "palindromic-substrings"
+    },
+    {
+      "filename": "0658-find-k-closest-elements.py",
+      "problemNumber": "0658",
+      "title": "find-k-closest-elements"
+    },
+    {
+      "filename": "0662-maximum-width-of-binary-tree.py",
+      "problemNumber": "0662",
+      "title": "maximum-width-of-binary-tree"
+    },
+    {
+      "filename": "0665-non-decreasing-array.py",
+      "problemNumber": "0665",
+      "title": "non-decreasing-array"
+    },
+    {
+      "filename": "0669-trim-a-binary-search-tree.py",
+      "problemNumber": "0669",
+      "title": "trim-a-binary-search-tree"
+    },
+    {
+      "filename": "0673-number-of-longest-increasing-subsequence.py",
+      "problemNumber": "0673",
+      "title": "number-of-longest-increasing-subsequence"
+    },
+    {
+      "filename": "0678-valid-parenthesis-string.py",
+      "problemNumber": "0678",
+      "title": "valid-parenthesis-string"
+    },
+    {
+      "filename": "0680-valid-palindrome-ii.py",
+      "problemNumber": "0680",
+      "title": "valid-palindrome-ii"
+    },
+    {
+      "filename": "0682-baseball-game.py",
+      "problemNumber": "0682",
+      "title": "baseball-game"
+    },
+    {
+      "filename": "0684-redundant-connection.py",
+      "problemNumber": "0684",
+      "title": "redundant-connection"
+    },
+    {
+      "filename": "0695-max-area-of-island.py",
+      "problemNumber": "0695",
+      "title": "max-area-of-island"
+    },
+    {
+      "filename": "0698-partition-to-k-equal-sum-subsets.py",
+      "problemNumber": "0698",
+      "title": "partition-to-k-equal-sum-subsets"
+    },
+    {
+      "filename": "0701-insert-into-a-binary-search-tree.py",
+      "problemNumber": "0701",
+      "title": "insert-into-a-binary-search-tree"
+    },
+    {
+      "filename": "0703-kth-largest-element-in-a-stream.py",
+      "problemNumber": "0703",
+      "title": "kth-largest-element-in-a-stream"
+    },
+    {
+      "filename": "0704-binary-search.py",
+      "problemNumber": "0704",
+      "title": "binary-search"
+    },
+    {
+      "filename": "0705-design-hashset.py",
+      "problemNumber": "0705",
+      "title": "design-hashset"
+    },
+    {
+      "filename": "0706-design-hashmap.py",
+      "problemNumber": "0706",
+      "title": "design-hashmap"
+    },
+    {
+      "filename": "0707-design-linked-list.py",
+      "problemNumber": "0707",
+      "title": "design-linked-list"
+    },
+    {
+      "filename": "0721-accounts-merge.py",
+      "problemNumber": "0721",
+      "title": "accounts-merge"
+    },
+    {
+      "filename": "0724-find-pivot-index.py",
+      "problemNumber": "0724",
+      "title": "find-pivot-index"
+    },
+    {
+      "filename": "0729-my-calendar-i.py",
+      "problemNumber": "0729",
+      "title": "my-calendar-i"
+    },
+    {
+      "filename": "0735-asteroid-collision.py",
+      "problemNumber": "0735",
+      "title": "asteroid-collision"
+    },
+    {
+      "filename": "0739-daily-temperatures.py",
+      "problemNumber": "0739",
+      "title": "daily-temperatures"
+    },
+    {
+      "filename": "0740-delete-and-earn.py",
+      "problemNumber": "0740",
+      "title": "delete-and-earn"
+    },
+    {
+      "filename": "0743-network-delay-time.py",
+      "problemNumber": "0743",
+      "title": "network-delay-time"
+    },
+    {
+      "filename": "0745-prefix-and-suffix-search.py",
+      "problemNumber": "0745",
+      "title": "prefix-and-suffix-search"
+    },
+    {
+      "filename": "0746-min-cost-climbing-stairs.py",
+      "problemNumber": "0746",
+      "title": "min-cost-climbing-stairs"
+    },
+    {
+      "filename": "0752-open-the-lock.py",
+      "problemNumber": "0752",
+      "title": "open-the-lock"
+    },
+    {
+      "filename": "0763-partition-labels.py",
+      "problemNumber": "0763",
+      "title": "partition-labels"
+    },
+    {
+      "filename": "0767-reorganize-string.py",
+      "problemNumber": "0767",
+      "title": "reorganize-string"
+    },
+    {
+      "filename": "0778-swim-in-rising-water.py",
+      "problemNumber": "0778",
+      "title": "swim-in-rising-water"
+    },
+    {
+      "filename": "0783-minimum-distance-between-bst-nodes.py",
+      "problemNumber": "0783",
+      "title": "minimum-distance-between-bst-nodes"
+    },
+    {
+      "filename": "0785-is-graph-bipartite.py",
+      "problemNumber": "0785",
+      "title": "is-graph-bipartite"
+    },
+    {
+      "filename": "0787-cheapest-flights-within-k-stops.py",
+      "problemNumber": "0787",
+      "title": "cheapest-flights-within-k-stops"
+    },
+    {
+      "filename": "0791-custom-sort-string.py",
+      "problemNumber": "0791",
+      "title": "custom-sort-string"
+    },
+    {
+      "filename": "0802-find-eventual-safe-states.py",
+      "problemNumber": "0802",
+      "title": "find-eventual-safe-states"
+    },
+    {
+      "filename": "0838-push-dominoes.py",
+      "problemNumber": "0838",
+      "title": "push-dominoes"
+    },
+    {
+      "filename": "0846-hand-of-straights.py",
+      "problemNumber": "0846",
+      "title": "hand-of-straights"
+    },
+    {
+      "filename": "0853-car-fleet.py",
+      "problemNumber": "0853",
+      "title": "car-fleet"
+    },
+    {
+      "filename": "0862-shortest-subarray-with-sum-at-least-k.py",
+      "problemNumber": "0862",
+      "title": "shortest-subarray-with-sum-at-least-k"
+    },
+    {
+      "filename": "0875-koko-eating-bananas.py",
+      "problemNumber": "0875",
+      "title": "koko-eating-bananas"
+    },
+    {
+      "filename": "0876-middle-of-the-linked-list.py",
+      "problemNumber": "0876",
+      "title": "middle-of-the-linked-list"
+    },
+    {
+      "filename": "0881-boats-to-save-people.py",
+      "problemNumber": "0881",
+      "title": "boats-to-save-people"
+    },
+    {
+      "filename": "0894-all-possible-full-binary-trees.py",
+      "problemNumber": "0894",
+      "title": "all-possible-full-binary-trees"
+    },
+    {
+      "filename": "0895-maximum-frequency-stack.py",
+      "problemNumber": "0895",
+      "title": "maximum-frequency-stack"
+    },
+    {
+      "filename": "0896-monotonic-array.py",
+      "problemNumber": "0896",
+      "title": "monotonic-array"
+    },
+    {
+      "filename": "0901-online-stock-span.py",
+      "problemNumber": "0901",
+      "title": "online-stock-span"
+    },
+    {
+      "filename": "0904-fruit-into-baskets.py",
+      "problemNumber": "0904",
+      "title": "fruit-into-baskets"
+    },
+    {
+      "filename": "0904_fruit_into_baskets.py",
+      "problemNumber": "0904_fruit_into_baskets.py",
+      "title": ""
+    },
+    {
+      "filename": "0909-snakes-and-ladders.py",
+      "problemNumber": "0909",
+      "title": "snakes-and-ladders"
+    },
+    {
+      "filename": "0912-sort-an-array.py",
+      "problemNumber": "0912",
+      "title": "sort-an-array"
+    },
+    {
+      "filename": "0918-maximum-sum-circular-subarray.py",
+      "problemNumber": "0918",
+      "title": "maximum-sum-circular-subarray"
+    },
+    {
+      "filename": "0929-unique-email-addresses.py",
+      "problemNumber": "0929",
+      "title": "unique-email-addresses"
+    },
+    {
+      "filename": "0930-binary-subarrays-with-sum.py",
+      "problemNumber": "0930",
+      "title": "binary-subarrays-with-sum"
+    },
+    {
+      "filename": "0931-minimum-falling-path-sum.py",
+      "problemNumber": "0931",
+      "title": "minimum-falling-path-sum"
+    },
+    {
+      "filename": "0946-validate-stack-sequences.py",
+      "problemNumber": "0946",
+      "title": "validate-stack-sequences"
+    },
+    {
+      "filename": "0948-bag-of-tokens.py",
+      "problemNumber": "0948",
+      "title": "bag-of-tokens"
+    },
+    {
+      "filename": "0953-verifying-an-alien-dictionary.py",
+      "problemNumber": "0953",
+      "title": "verifying-an-alien-dictionary"
+    },
+    {
+      "filename": "0973-k-closest-points-to-origin.py",
+      "problemNumber": "0973",
+      "title": "k-closest-points-to-origin"
+    },
+    {
+      "filename": "0977-squares-of-a-sorted-array.py",
+      "problemNumber": "0977",
+      "title": "squares-of-a-sorted-array"
+    },
+    {
+      "filename": "0978-longest-turbulent-subarray.py",
+      "problemNumber": "0978",
+      "title": "longest-turbulent-subarray"
+    },
+    {
+      "filename": "0981-time-based-key-value-store.py",
+      "problemNumber": "0981",
+      "title": "time-based-key-value-store"
+    },
+    {
+      "filename": "0994-rotting-oranges.py",
+      "problemNumber": "0994",
+      "title": "rotting-oranges"
+    },
+    {
+      "filename": "0997-find-the-town-judge.py",
+      "problemNumber": "0997",
+      "title": "find-the-town-judge"
+    },
+    {
+      "filename": "1011-capacity-to-ship-packages-within-d-days.py",
+      "problemNumber": "1011",
+      "title": "capacity-to-ship-packages-within-d-days"
+    },
+    {
+      "filename": "1020-number-of-enclaves.py",
+      "problemNumber": "1020",
+      "title": "number-of-enclaves"
+    },
+    {
+      "filename": "1029-two-city-scheduling.py",
+      "problemNumber": "1029",
+      "title": "two-city-scheduling"
+    },
+    {
+      "filename": "1046-last-stone-weight.py",
+      "problemNumber": "1046",
+      "title": "last-stone-weight"
+    },
+    {
+      "filename": "1049-last-stone-weight-ii.py",
+      "problemNumber": "1049",
+      "title": "last-stone-weight-ii"
+    },
+    {
+      "filename": "1074-number-of-submatrices-that-sum-to-target.py",
+      "problemNumber": "1074",
+      "title": "number-of-submatrices-that-sum-to-target"
+    },
+    {
+      "filename": "1091-shortest-path-in-binary-matrix.py",
+      "problemNumber": "1091",
+      "title": "shortest-path-in-binary-matrix"
+    },
+    {
+      "filename": "1137-n-th-tribonacci-number.py",
+      "problemNumber": "1137",
+      "title": "n-th-tribonacci-number"
+    },
+    {
+      "filename": "1143-longest-common-subsequence.py",
+      "problemNumber": "1143",
+      "title": "longest-common-subsequence"
+    },
+    {
+      "filename": "1189-maximum-number-of-balloons.py",
+      "problemNumber": "1189",
+      "title": "maximum-number-of-balloons"
+    },
+    {
+      "filename": "1209-remove-all-adjacent-duplicates-in-string-ii.py",
+      "problemNumber": "1209",
+      "title": "remove-all-adjacent-duplicates-in-string-ii"
+    },
+    {
+      "filename": "1220-count-vowels-permutation.py",
+      "problemNumber": "1220",
+      "title": "count-vowels-permutation"
+    },
+    {
+      "filename": "1239-maximum-length-of-a-concatenated-string-with-unique-characters.py",
+      "problemNumber": "1239",
+      "title": "maximum-length-of-a-concatenated-string-with-unique-characters"
+    },
+    {
+      "filename": "1254-number-of-closed-islands.py",
+      "problemNumber": "1254",
+      "title": "number-of-closed-islands"
+    },
+    {
+      "filename": "1260-shift-2d-grid.py",
+      "problemNumber": "1260",
+      "title": "shift-2d-grid"
+    },
+    {
+      "filename": "1288-remove-covered-intervals.py",
+      "problemNumber": "1288",
+      "title": "remove-covered-intervals"
+    },
+    {
+      "filename": "1299-replace-elements-with-greatest-element-on-right-side.py",
+      "problemNumber": "1299",
+      "title": "replace-elements-with-greatest-element-on-right-side"
+    },
+    {
+      "filename": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py",
+      "problemNumber": "1343",
+      "title": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold"
+    },
+    {
+      "filename": "1345-jump-game-iv.py",
+      "problemNumber": "1345",
+      "title": "jump-game-iv"
+    },
+    {
+      "filename": "1383-maximum-performance-of-a-team.py",
+      "problemNumber": "1383",
+      "title": "maximum-performance-of-a-team"
+    },
+    {
+      "filename": "1396-design-underground-system.py",
+      "problemNumber": "1396",
+      "title": "design-underground-system"
+    },
+    {
+      "filename": "1423-maximum-points-you-can-obtain-from-cards.py",
+      "problemNumber": "1423",
+      "title": "maximum-points-you-can-obtain-from-cards"
+    },
+    {
+      "filename": "1448-count-good-nodes-in-binary-tree.py",
+      "problemNumber": "1448",
+      "title": "count-good-nodes-in-binary-tree"
+    },
+    {
+      "filename": "1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
+      "problemNumber": "1456",
+      "title": "maximum-number-of-vowels-in-a-substring-of-given-length"
+    },
+    {
+      "filename": "1461-check-if-a-string-contains-all-binary-codes-of-size-k.py",
+      "problemNumber": "1461",
+      "title": "check-if-a-string-contains-all-binary-codes-of-size-k"
+    },
+    {
+      "filename": "1462-course-schedule-iv.py",
+      "problemNumber": "1462",
+      "title": "course-schedule-iv"
+    },
+    {
+      "filename": "1464-maximum-product-of-two-elements-in-an-array.py",
+      "problemNumber": "1464",
+      "title": "maximum-product-of-two-elements-in-an-array"
+    },
+    {
+      "filename": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.py",
+      "problemNumber": "1466",
+      "title": "reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+    },
+    {
+      "filename": "1472-design-browser-history.py",
+      "problemNumber": "1472",
+      "title": "design-browser-history"
+    },
+    {
+      "filename": "1475-final-prices-with-a-special-discount-in-a-shop.py",
+      "problemNumber": "1475",
+      "title": "final-prices-with-a-special-discount-in-a-shop"
+    },
+    {
+      "filename": "1481-least-number-of-unique-integers-after-k-removals.py",
+      "problemNumber": "1481",
+      "title": "least-number-of-unique-integers-after-k-removals"
+    },
+    {
+      "filename": "1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.py",
+      "problemNumber": "1489",
+      "title": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree"
+    },
+    {
+      "filename": "1498-number-of-subsequences-that-satisfy-the-given-sum-condition.py",
+      "problemNumber": "1498",
+      "title": "number-of-subsequences-that-satisfy-the-given-sum-condition"
+    },
+    {
+      "filename": "1514-path-with-maximum-probability.py",
+      "problemNumber": "1514",
+      "title": "path-with-maximum-probability"
+    },
+    {
+      "filename": "1523-count-odd-numbers-in-an-interval-range.py",
+      "problemNumber": "1523",
+      "title": "count-odd-numbers-in-an-interval-range"
+    },
+    {
+      "filename": "1572-matrix-diagonal-sum.py",
+      "problemNumber": "1572",
+      "title": "matrix-diagonal-sum"
+    },
+    {
+      "filename": "1582-special-positions-in-a-binary-matrix.py",
+      "problemNumber": "1582",
+      "title": "special-positions-in-a-binary-matrix"
+    },
+    {
+      "filename": "1584-min-cost-to-connect-all-points.py",
+      "problemNumber": "1584",
+      "title": "min-cost-to-connect-all-points"
+    },
+    {
+      "filename": "1603-design-parking-system.py",
+      "problemNumber": "1603",
+      "title": "design-parking-system"
+    },
+    {
+      "filename": "1609-even-odd-tree.py",
+      "problemNumber": "1609",
+      "title": "even-odd-tree"
+    },
+    {
+      "filename": "1631-path-with-minimum-effort.py",
+      "problemNumber": "1631",
+      "title": "path-with-minimum-effort"
+    },
+    {
+      "filename": "1642-furthest-building-you-can-reach.py",
+      "problemNumber": "1642",
+      "title": "furthest-building-you-can-reach"
+    },
+    {
+      "filename": "1658-minimum-operations-to-reduce-x-to-zero.py",
+      "problemNumber": "1658",
+      "title": "minimum-operations-to-reduce-x-to-zero"
+    },
+    {
+      "filename": "1669-merge-in-between-linked-lists.py",
+      "problemNumber": "1669",
+      "title": "merge-in-between-linked-lists"
+    },
+    {
+      "filename": "1700-number-of-students-unable-to-eat-lunch.py",
+      "problemNumber": "1700",
+      "title": "number-of-students-unable-to-eat-lunch"
+    },
+    {
+      "filename": "1721-swapping-nodes-in-a-linked-list.py",
+      "problemNumber": "1721",
+      "title": "swapping-nodes-in-a-linked-list"
+    },
+    {
+      "filename": "1750-minimum-length-of-string-after-deleting-similar-ends.py",
+      "problemNumber": "1750",
+      "title": "minimum-length-of-string-after-deleting-similar-ends"
+    },
+    {
+      "filename": "1768-merge-strings-alternately.py",
+      "problemNumber": "1768",
+      "title": "merge-strings-alternately"
+    },
+    {
+      "filename": "1800-maximum-ascending-subarray-sum.py",
+      "problemNumber": "1800",
+      "title": "maximum-ascending-subarray-sum"
+    },
+    {
+      "filename": "1822-sign-of-the-product-of-an-array.py",
+      "problemNumber": "1822",
+      "title": "sign-of-the-product-of-an-array"
+    },
+    {
+      "filename": "1834-single-threaded-cpu.py",
+      "problemNumber": "1834",
+      "title": "single-threaded-cpu"
+    },
+    {
+      "filename": "1838-frequency-of-the-most-frequent-element.py",
+      "problemNumber": "1838",
+      "title": "frequency-of-the-most-frequent-element"
+    },
+    {
+      "filename": "1845-seat-reservation-manager.py",
+      "problemNumber": "1845",
+      "title": "seat-reservation-manager"
+    },
+    {
+      "filename": "1849-splitting-a-string-into-descending-consecutive-values.py",
+      "problemNumber": "1849",
+      "title": "splitting-a-string-into-descending-consecutive-values"
+    },
+    {
+      "filename": "1851-minimum-interval-to-include-each-query.py",
+      "problemNumber": "1851",
+      "title": "minimum-interval-to-include-each-query"
+    },
+    {
+      "filename": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating.py",
+      "problemNumber": "1888",
+      "title": "minimum-number-of-flips-to-make-the-binary-string-alternating"
+    },
+    {
+      "filename": "1899-merge-triplets-to-form-target-triplet.py",
+      "problemNumber": "1899",
+      "title": "merge-triplets-to-form-target-triplet"
+    },
+    {
+      "filename": "1905-count-sub-islands.py",
+      "problemNumber": "1905",
+      "title": "count-sub-islands"
+    },
+    {
+      "filename": "1929-concatenation-of-array.py",
+      "problemNumber": "1929",
+      "title": "concatenation-of-array"
+    },
+    {
+      "filename": "1930-unique-length-3-palindromic-subsequences.py",
+      "problemNumber": "1930",
+      "title": "unique-length-3-palindromic-subsequences"
+    },
+    {
+      "filename": "1958-check-if-move-is-legal.py",
+      "problemNumber": "1958",
+      "title": "check-if-move-is-legal"
+    },
+    {
+      "filename": "1963-minimum-number-of-swaps-to-make-the-string-balanced.py",
+      "problemNumber": "1963",
+      "title": "minimum-number-of-swaps-to-make-the-string-balanced"
+    },
+    {
+      "filename": "1968-array-with-elements-not-equal-to-average-of-neighbors.py",
+      "problemNumber": "1968",
+      "title": "array-with-elements-not-equal-to-average-of-neighbors"
+    },
+    {
+      "filename": "1980-find-unique-binary-string.py",
+      "problemNumber": "1980",
+      "title": "find-unique-binary-string"
+    },
+    {
+      "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.py",
+      "problemNumber": "1984",
+      "title": "minimum-difference-between-highest-and-lowest-of-k-scores"
+    },
+    {
+      "filename": "1985-find-the-kth-largest-integer-in-the-array.py",
+      "problemNumber": "1985",
+      "title": "find-the-kth-largest-integer-in-the-array"
+    },
+    {
+      "filename": "2001-number-of-pairs-of-interchangeable-rectangles.py",
+      "problemNumber": "2001",
+      "title": "number-of-pairs-of-interchangeable-rectangles"
+    },
+    {
+      "filename": "2002-maximum-product-of-the-length-of-two-palindromic-subsequences.py",
+      "problemNumber": "2002",
+      "title": "maximum-product-of-the-length-of-two-palindromic-subsequences"
+    },
+    {
+      "filename": "2013-detect-squares.py",
+      "problemNumber": "2013",
+      "title": "detect-squares"
+    },
+    {
+      "filename": "2017-grid-game.py",
+      "problemNumber": "2017",
+      "title": "grid-game"
+    },
+    {
+      "filename": "2092-find-all-people-with-secret.py",
+      "problemNumber": "2092",
+      "title": "find-all-people-with-secret"
+    },
+    {
+      "filename": "2101-detonate-the-maximum-bombs.py",
+      "problemNumber": "2101",
+      "title": "detonate-the-maximum-bombs"
+    },
+    {
+      "filename": "2130-maximum-twin-sum-of-a-linked-list.py",
+      "problemNumber": "2130",
+      "title": "maximum-twin-sum-of-a-linked-list"
+    },
+    {
+      "filename": "2215-find-the-difference-of-two-arrays.py",
+      "problemNumber": "2215",
+      "title": "find-the-difference-of-two-arrays"
+    },
+    {
+      "filename": "2300-successful-pairs-of-spells-and-potions.py",
+      "problemNumber": "2300",
+      "title": "successful-pairs-of-spells-and-potions"
+    },
+    {
+      "filename": "2306-naming-a-company.py",
+      "problemNumber": "2306",
+      "title": "naming-a-company"
+    },
+    {
+      "filename": "2348-number-of-zero-filled-subarrays.py",
+      "problemNumber": "2348",
+      "title": "number-of-zero-filled-subarrays"
+    },
+    {
+      "filename": "2390-removing-stars-from-a-string.py",
+      "problemNumber": "2390",
+      "title": "removing-stars-from-a-string"
+    },
+    {
+      "filename": "2402-meeting-rooms-iii.py",
+      "problemNumber": "2402",
+      "title": "meeting-rooms-iii"
+    },
+    {
+      "filename": "2405-optimal-partition-of-string.py",
+      "problemNumber": "2405",
+      "title": "optimal-partition-of-string"
+    },
+    {
+      "filename": "2482-difference-between-ones-and-zeros-in-row-and-column.py",
+      "problemNumber": "2482",
+      "title": "difference-between-ones-and-zeros-in-row-and-column"
+    },
+    {
+      "filename": "2483-minimum-penalty-for-a-shop.py",
+      "problemNumber": "2483",
+      "title": "minimum-penalty-for-a-shop"
+    },
+    {
+      "filename": "2616-minimize-the-maximum-difference-of-pairs.py",
+      "problemNumber": "2616",
+      "title": "minimize-the-maximum-difference-of-pairs"
+    },
+    {
+      "filename": "2709-greatest-common-divisor-traversal.py",
+      "problemNumber": "2709",
+      "title": "greatest-common-divisor-traversal"
+    },
+    {
+      "filename": "2864-maximum-odd-binary-number.py",
+      "problemNumber": "2864",
+      "title": "maximum-odd-binary-number"
+    },
+    {
+      "filename": "2971-find-polygon-with-the-largest-perimeter.py",
+      "problemNumber": "2971",
+      "title": "find-polygon-with-the-largest-perimeter"
+    }
+  ]
+}
